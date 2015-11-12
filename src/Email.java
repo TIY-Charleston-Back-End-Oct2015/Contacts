@@ -2,10 +2,10 @@
  * Created by zach on 10/8/15.
  */
 public class Email {
-    public String subject;
-    public String body;
-    public String destination;
-    public int timestamp;
+    public String subject; // this is a subject -zach
+    public String body; // this is a body -zach
+    public String destination; // this is a destination -zach
+    public int timestamp; // this is a timestamp -zach
 
     public Email() {
         System.out.println("Creating email...");
